@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-21T17:26:55.828Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="3GyGdlJmc7mMXlaw_gfn" version="18.1.1" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2022-05-21T17:27:13.201Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="X4ntP5OkIvW2wAIwcDnc" version="18.1.1" type="github" pages="9">
   <diagram id="7skQjT5sqxQosYFxs1yq" name="nacl+sg">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1403,7 +1403,7 @@
         <mxCell id="gR_Tj7jsKwatMf_8CC1B-12" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fontColor=#0000CC;strokeWidth=2;fillColor=#994C00;strokeColor=#994C00;" vertex="1" parent="1">
           <mxGeometry x="70" y="-3315" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="gR_Tj7jsKwatMf_8CC1B-13" value="&lt;b&gt;Alternativa para conexão publica entre a&amp;nbsp;&lt;/b&gt;&lt;b&gt;rede On-Premisses e&amp;nbsp;&lt;/b&gt;&lt;b&gt;recursos/serviços AWS, utilizando Public VIF e a mesma arquitetura do Direct Connect;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontColor=#0000CC;" vertex="1" parent="1">
+        <mxCell id="gR_Tj7jsKwatMf_8CC1B-13" value="&lt;font color=&quot;#994c00&quot;&gt;&lt;b&gt;Alternativa para conexão publica entre a&amp;nbsp;&lt;/b&gt;&lt;b&gt;rede On-Premisses e&amp;nbsp;&lt;/b&gt;&lt;b&gt;recursos/serviços AWS, utilizando Public VIF e a mesma arquitetura do Direct Connect;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontColor=#0000CC;" vertex="1" parent="1">
           <mxGeometry x="110" y="-3320" width="588" height="30" as="geometry" />
         </mxCell>
       </root>
