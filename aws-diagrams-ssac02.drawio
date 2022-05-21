@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-21T13:32:18.329Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="6m8JSiBjnLFDalcRHyHZ" version="18.1.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-05-21T13:32:45.927Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="YVcidui4MxiyaagZ5jHG" version="18.1.1" type="github" pages="2">
   <diagram id="z-30bUCffygZpy31_x2s" name="igw+bastion">
     <mxGraphModel dx="983" dy="576" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -95,16 +95,16 @@
           <mxGeometry x="56" y="639" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="X8NP48r6ae6dyHVQgpeo-59" value="&lt;b style=&quot;font-size: 12px;&quot;&gt;Conexão privada SSH entre usuários e as instancias privadas utilizando Bastion Host. &lt;br&gt;As instancias não tem conexão pública/internet.&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontColor=#0000CC;" vertex="1" parent="1">
-          <mxGeometry x="96" y="634" width="534" height="30" as="geometry" />
+          <mxGeometry x="97" y="634" width="534" height="30" as="geometry" />
         </mxCell>
         <mxCell id="X8NP48r6ae6dyHVQgpeo-60" value="&lt;b style=&quot;font-size: 12px;&quot;&gt;&lt;font color=&quot;#000000&quot; style=&quot;font-size: 12px;&quot;&gt;Conexão entre a internet e as Subnets e instancias públicas utilizando Internet Gateway e Route Table.&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontColor=#0000CC;" vertex="1" parent="1">
-          <mxGeometry x="96" y="600" width="640" height="30" as="geometry" />
+          <mxGeometry x="97" y="600" width="640" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="Lf1DL-ol91fCqDeObxcB" name="nat+ngw">
-    <mxGraphModel dx="1168" dy="684" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="983" dy="576" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -214,10 +214,10 @@
           <mxGeometry x="50" y="714" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="EpC7WPJosjhJz_n8tiTL-29" value="&lt;b style=&quot;font-size: 12px;&quot;&gt;Conexão NAT entre um destino na internet e as instancias privadas utilizando NAT Instance. &lt;br&gt;As instancias tem conexão pública/internet ao menos que esteja configurado no NAT Instance.&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontColor=#0000CC;" vertex="1" parent="1">
-          <mxGeometry x="90" y="708" width="570" height="30" as="geometry" />
+          <mxGeometry x="92" y="708" width="570" height="30" as="geometry" />
         </mxCell>
         <mxCell id="EpC7WPJosjhJz_n8tiTL-30" value="&lt;b style=&quot;font-size: 12px;&quot;&gt;&lt;font color=&quot;#000000&quot; style=&quot;font-size: 12px;&quot;&gt;Conexão entre a internet e as Subnets e instancias públicas utilizando Internet Gateway e Route Table.&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontColor=#0000CC;" vertex="1" parent="1">
-          <mxGeometry x="90" y="671" width="640" height="30" as="geometry" />
+          <mxGeometry x="91" y="671" width="640" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DVmBj349e0_Fu9R17DR0-5" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;fontColor=#0000CC;strokeColor=#0000CC;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="EpC7WPJosjhJz_n8tiTL-9" target="DVmBj349e0_Fu9R17DR0-10">
           <mxGeometry relative="1" as="geometry">
