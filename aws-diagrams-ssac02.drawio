@@ -1,5 +1,5 @@
-<mxfile host="app.diagrams.net" modified="2022-05-21T14:40:08.603Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="o-cpqv4kYCin06JdhTj1" version="18.1.1" type="github" pages="4">
-  <diagram id="z-30bUCffygZpy31_x2s" name="igw+bastion">
+<mxfile host="app.diagrams.net" modified="2022-05-21T14:50:25.271Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="2VDFBH-TfCbBygAMSnil" version="18.1.1" type="github" pages="4">
+  <diagram id="z-30bUCffygZpy31_x2s" name="int.gtw+bastion">
     <mxGraphModel dx="983" dy="576" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -379,7 +379,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="WC0REi0gP097ZWQO4l_Z" name="dns-resolution">
-    <mxGraphModel dx="1557" dy="912" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1099" dy="644" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -452,6 +452,9 @@
           <mxGeometry x="-0.1062" y="-1" relative="1" as="geometry">
             <mxPoint x="-4" y="1" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="6q83ul9GR_CQm1KPfWyX-2" value="2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=0;shadow=0;glass=0;dashed=1;labelBackgroundColor=none;sketch=0;fontSize=12;fontColor=#0000CC;strokeColor=#0000CC;strokeWidth=2;fillColor=none;" vertex="1" parent="4Ms3CNDSkP2RG4e00KId-1">
+          <mxGeometry x="180" y="115" width="25" height="25" as="geometry" />
         </mxCell>
         <mxCell id="4Ms3CNDSkP2RG4e00KId-22" value="&lt;b style=&quot;font-size: 12px;&quot;&gt;&lt;font color=&quot;#0000cc&quot;&gt;Google.com&lt;/font&gt;&lt;/b&gt;" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.internet_3;fillColor=#D2D3D3;gradientColor=none;fontSize=12;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="80" y="190" width="60" height="40" as="geometry" />
@@ -585,6 +588,9 @@
         </mxCell>
         <mxCell id="mPSK3-lc4nsF7u7mmgA9-57" value="2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=0;shadow=0;glass=0;dashed=1;labelBackgroundColor=none;sketch=0;fontSize=12;fontColor=#0000CC;strokeColor=#0000CC;strokeWidth=2;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="940" y="1215" width="25" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="6q83ul9GR_CQm1KPfWyX-1" value="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=0;shadow=0;glass=0;dashed=1;labelBackgroundColor=none;sketch=0;fontSize=12;fontColor=#0000CC;strokeColor=#0000CC;strokeWidth=2;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="720" y="270" width="25" height="25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
